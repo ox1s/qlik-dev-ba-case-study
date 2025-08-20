@@ -3,6 +3,7 @@
 Этот репозиторий содержит решение тестового задания по Qlik Sense.
 
 ## Описание проекта
+<img src="cat.png" alt="Котик" align="right" width="150" height="225">
 
 Целью проекта было создание аналитического приложения на основе предоставленных данных о продажах. Работа включает в себя:
 - Загрузку и очистку данных из Excel.
@@ -24,3 +25,4 @@
 
 ## Результат
 ![Final Table](documentation/screenshots/final-table.png)
+![Model View](documentation/screenshots/model-view.png)
